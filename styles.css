@@ -1,0 +1,20 @@
+body{
+    background-color:bisque;
+}
+h2{
+    color:brown;
+}
+h3{
+    color: goldenrod;
+    font-style: oblique;
+}
+ul{
+  font-weight: bold;  
+  color: black;
+  font-style: italic;
+  font-size: 20px;
+}
+h1{
+    font: outline;
+    font-style: normal;
+}
