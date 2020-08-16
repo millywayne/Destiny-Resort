@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: fantasy;
+
+}
+body{
+    background-color:bisque;
+    padding: 80px 0;
+    text-align: center;
+    
+}
+.inner-width{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px 0;
+}
+.h1{
+    font-size: 20px;
+    color:black;
+    margin-bottom: 40px;
+    letter-spacing: 4px;
+    font-weight: 400;
+}
+.name,.email,.message{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid;
+    color:darkblue;
+    padding: 10px 6px;
+    font-size: 14px;
+    margin-bottom: 40px;
+
+}
+.name{
+    float: left;
+    width: 270px;
+
+}
+.email{
+    float: right;
+    width: 270px;
+}
+.message{
+    min-width: 100%;
+    max-width: 100%;
+    color:brown;
+}
+@media screen and (max-width:600px){
+    .name,.email{
+        width: 100%;
+    }
+}
+
+ul{
+    font-weight: bold;  
+    color: black;
+    font-style: italic;
+    font-size: 20px;
+    text-align: left;
+  }
