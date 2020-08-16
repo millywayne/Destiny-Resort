@@ -1,11 +1,14 @@
 body{
-    background-color:bisque;
+    background-color: url('background-image.html');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 h2{
     color:brown;
 }
 h3{
-    color: goldenrod;
+    color: whitesmoke;
     font-style: oblique;
 }
 ul{
