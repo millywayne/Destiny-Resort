@@ -1,5 +1,5 @@
 # Destiny-Resort
-#### {This is a travel agency website}, {&copy2020 Happy Trails Travel Agency)
+#### {This is a hospitality business website}, {&copy2020 Destiny-Resort)
 #### By **{Milllicent Achieng Odhiambo}**
 ## Description
 *{This is a resort website that shows services and activities of a resort in Kisumu}
